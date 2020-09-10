@@ -12,8 +12,16 @@
     color: white;
 }
 
+.pixlogos {
+    image-rendering: pixelated;
+}
+
 .no-deco {
     text-decoration: none;
+}
+
+.text-center {
+    text-align: center;
 }
 
 .orange-bg {
