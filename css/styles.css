@@ -4,7 +4,7 @@
 }
 
 /*
-#btnLeft:active {  
+#btnLeft:active {
 }
 */
 
@@ -35,13 +35,12 @@
 }
 
 .main-stuff {
-  background-color: #40E0D0;
+  background-color: #40e0d0;
 }
 
 .main-stuff:hover {
   border-style: solid;
 }
-
 
 .pix-font {
   font-family: Pixeboy, Arial, sans-serif;
@@ -68,7 +67,6 @@
 .height25 {
   height: 25px;
 }
-
 
 .redhov:hover {
   color: red;
