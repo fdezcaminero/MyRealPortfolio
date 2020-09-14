@@ -49,6 +49,7 @@
 
 .header40px {
     font-size: 40px;
+    line-height: 30px;
 }
 
 .font30px {
@@ -68,9 +69,6 @@
     height: 25px;
 }
 
-.blackhov:hover {
-    color: black;
-}
 
 .redhov:hover {
     color: red;
@@ -79,6 +77,10 @@
 .flex-container {
     display: flex;
     justify-content: center;
+}
+
+.image-dims {
+    width: 50%;
 }
 
 /*
