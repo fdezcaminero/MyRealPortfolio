@@ -1,6 +1,6 @@
 @font-face {
-    src: url(../fonts/Pixeboy-z8XGD.ttf);
-    font-family: Pixeboy;
+  src: url(../fonts/Pixeboy-z8XGD.ttf);
+  font-family: Pixeboy;
 }
 
 /*
@@ -9,78 +9,78 @@
 */
 
 .white-text {
-    color: white;
+  color: white;
 }
 
 .pixlogos {
-    image-rendering: pixelated;
+  image-rendering: pixelated;
 }
 
 .no-deco {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 .text-center {
-    text-align: center;
+  text-align: center;
 }
 
 .orange-bg {
-    background-color: orange;
-    color: black;
+  background-color: orange;
+  color: black;
 }
 
 .black-bg {
-    background-color: black;
-    color: white;
+  background-color: black;
+  color: white;
 }
 
 .main-stuff {
-    background-color: #40E0D0;
+  background-color: #40E0D0;
 }
 
 .main-stuff:hover {
-    border-style: solid;
+  border-style: solid;
 }
 
 
 .pix-font {
-    font-family: Pixeboy, Arial, sans-serif;
+  font-family: Pixeboy, Arial, sans-serif;
 }
 
 .header40px {
-    font-size: 40px;
-    line-height: 30px;
+  font-size: 40px;
+  line-height: 30px;
 }
 
 .font30px {
-    font-size: 30px;
+  font-size: 30px;
 }
 
 .crazy-parragraph {
-    line-height: 27px;
-    margin-left: 20px;
+  line-height: 27px;
+  margin-left: 20px;
 }
 
 .svg-white {
-    fill: white;
+  fill: white;
 }
 
 .height25 {
-    height: 25px;
+  height: 25px;
 }
 
 
 .redhov:hover {
-    color: red;
+  color: red;
 }
 
 .flex-container {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 
 .image-dims {
-    width: 50%;
+  width: 50%;
 }
 
 /*
